@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Himanshu Yadav
 - 👀 I’m interested in CODING !!
-- 🌱 I’m currently learning JS and ReactJS
+- 🌱 I’m currently learning Node JS and AWS
 - 📫 How to reach me : 
-- Email - himanshu.slick@gmail.com
+  -  Email - himanshu.slick@gmail.com
 
 <!---
 himanshu-slick/himanshu-slick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
