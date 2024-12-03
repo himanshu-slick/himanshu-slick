@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Yadav
 - 👀 I’m interested in PROGRAMMING !!
-- 🌱 I’m currently learning Node JS and AWS
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me : 
   -  Email - himanshu.slick@gmail.com
 
